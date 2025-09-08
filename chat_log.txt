@@ -20,3 +20,17 @@
 2025-09-08 01:11:41,129 76.139.164.114 - - [08/Sep/2025 01:11:41] "GET / HTTP/1.1" 200 -
 2025-09-08 01:11:50,976 User: Hey what is that | Bot: (demo) You said: Hey what is that
 2025-09-08 01:11:50,976 76.139.164.114 - - [08/Sep/2025 01:11:50] "POST /ask HTTP/1.1" 200 -
+2025-09-08 02:06:58,675 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.38.222:80
+2025-09-08 02:06:58,675 [33mPress CTRL+C to quit[0m
+2025-09-08 02:07:09,516 76.139.164.114 - - [08/Sep/2025 02:07:09] "GET / HTTP/1.1" 200 -
+2025-09-08 02:07:43,256 User: afwsgfhsdglkjshdfgjhefa;gheroghoeruhgofng;fsndg;jdfnsghfslghrslghoshgofsdhg;fdng;dfnbdfbndfbdf;jgorfgjoierghorodfbhoirjhprtjyortw[yrtoiy[rtihpojretjhijfgoihjogidfjhfjgipohjr'ghjkrpotjhprjtjhrto[hkrt[okhjyrjhpfjf'phokrto[hkrtohjkrtpjhrtpjhprotjhpotfkhjry[kj[ryojkrtkhprjtpohjrtophjrtphjtrhjtphkrtopkhorptkhp'ertphokrthrtkh[trheh[ejh[rtpjhtjphjgphjpogjhpogfjhpgojhrtpoghjrtpohjrtjhtrpohjrtpojhrtpohjrtpojhrthpjrtgpohjrtphrtphjtrhpotrhprthprthphkrpthkrtphrtkhrhkrthpk | Bot: (demo) You said: afwsgfhsdglkjshdfgjhefa;gheroghoeruhgofng;fsndg;jdfnsghfslghrslghoshgofsdhg;fdng;dfnbdfbndfbdf;jgorfgjoierghorodfbhoirjhprtjyortw[yrtoiy[rtihpojretjhijfgoihjogidfjhfjgipohjr'ghjkrpotjhprjtjhrto[hkrt[okhjyrjhpfjf'phokrto[hkrtohjkrtpjhrtpjhprotjhpotfkhjry[kj[ryojkrtkhprjtpohjrtophjrtphjtrhjtphkrtopkhorptkhp'ertphokrthrtkh[trheh[ejh[rtpjhtjphjgphjpogjhpogfjhpgojhrtpoghjrtpohjrtjhtrpohjrtpojhrtpohjrtpojhrthpjrtgpohjrtphrtphjtrhpotrhprthprthphkrpthkrtphrtkhrhkrthpk
+2025-09-08 02:07:43,256 76.139.164.114 - - [08/Sep/2025 02:07:43] "POST /ask HTTP/1.1" 200 -
+2025-09-08 02:08:13,799 User: This is | Bot: (demo) You said: This is
+2025-09-08 02:08:13,800 76.139.164.114 - - [08/Sep/2025 02:08:13] "POST /ask HTTP/1.1" 200 -
+2025-09-08 02:08:19,871 User: This is | Bot: (demo) You said: This is
+2025-09-08 02:08:19,872 76.139.164.114 - - [08/Sep/2025 02:08:19] "POST /ask HTTP/1.1" 200 -
+2025-09-08 02:08:25,828 User: This is | Bot: (demo) You said: This is
+2025-09-08 02:08:25,829 76.139.164.114 - - [08/Sep/2025 02:08:25] "POST /ask HTTP/1.1" 200 -
