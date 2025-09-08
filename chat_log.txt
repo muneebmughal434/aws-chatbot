@@ -1,0 +1,22 @@
+2025-09-08 00:23:10,042 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.38.222:80
+2025-09-08 00:23:10,042 [33mPress CTRL+C to quit[0m
+2025-09-08 00:54:56,741 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.38.222:80
+2025-09-08 00:54:56,741 [33mPress CTRL+C to quit[0m
+2025-09-08 00:55:03,608 76.139.164.114 - - [08/Sep/2025 00:55:03] "GET / HTTP/1.1" 200 -
+2025-09-08 00:55:03,712 76.139.164.114 - - [08/Sep/2025 00:55:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-08 00:55:15,441 User: hey what are you doing | Bot: (demo) You said: hey what are you doing
+2025-09-08 00:55:15,441 76.139.164.114 - - [08/Sep/2025 00:55:15] "POST /ask HTTP/1.1" 200 -
+2025-09-08 01:11:36,239 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:80
+ * Running on http://172.31.38.222:80
+2025-09-08 01:11:36,239 [33mPress CTRL+C to quit[0m
+2025-09-08 01:11:41,129 76.139.164.114 - - [08/Sep/2025 01:11:41] "GET / HTTP/1.1" 200 -
+2025-09-08 01:11:50,976 User: Hey what is that | Bot: (demo) You said: Hey what is that
+2025-09-08 01:11:50,976 76.139.164.114 - - [08/Sep/2025 01:11:50] "POST /ask HTTP/1.1" 200 -
